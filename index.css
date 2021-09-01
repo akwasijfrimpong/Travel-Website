@@ -1,0 +1,11 @@
+#review-textarea{
+    height: 150px;
+}
+
+.checked {
+    color: orange;
+  }
+.stars{
+    padding-left: 20px;
+    
+}
